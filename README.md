@@ -114,9 +114,6 @@ streamlit run app.py
 ```bash
 ngrok http 8000
 ```
-
-Use the generated URL in your frontend or to share the chatbot API externally.
-
 ---
 
 ## 📜 License
