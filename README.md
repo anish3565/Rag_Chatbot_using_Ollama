@@ -70,7 +70,6 @@ pip install -r requirements.txt
 4. **Install and start Ollama**
 
 👉 Follow: [https://ollama.ai](https://ollama.ai)
-📦 Recommended model: `mistral`
 
 ```bash
 ollama run mistral
@@ -110,33 +109,13 @@ streamlit run app.py
 
 ---
 
-## 🌍 Optional: Public Exposure via ngrok
+## 🌍 Public Exposure via ngrok
 
 ```bash
 ngrok http 8000
 ```
 
 Use the generated URL in your frontend or to share the chatbot API externally.
-
----
-
-## 🔧 Skills Demonstrated
-
- **🧠 Machine Learning**: RAG pipeline implementation
-* **🧾 NLP & Embeddings**: Document embedding + semantic retrieval
-* **🔗 Backend Engineering**: FastAPI for serving model and retrieval
-* **🖼️ Frontend Prototyping**: Streamlit UI for user interaction
-* **📄 Document Processing**: PDF ingestion pipeline
-* **📦 Software Architecture**: Modular, readable, scalable structure
-
----
-
-## 🔮 Future Enhancements
-
-* 🔐 Add user authentication and session memory
-* ☁️ Migrate to AWS/GCP for scalable cloud deployment
-* 🎯 Add filters for document-specific queries
-* 📊 Streamlit+Plotly visual summaries for document insights
 
 ---
 
