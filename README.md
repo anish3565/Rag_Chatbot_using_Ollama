@@ -121,6 +121,3 @@ ngrok http 8000
 This project is licensed under the [MIT License](LICENSE).
 
 ---
-
-> 🌟 **Star this repo** if you find it helpful.
-> ✉️ [Let’s connect on LinkedIn](https://www.linkedin.com/in/anishnsut) for collaborations!
